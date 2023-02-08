@@ -1,6 +1,6 @@
 {
   "name": "composer-version-from-lock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get current package version from composer.lock file and write it into the composer.json",
   "main": "index.js",
   "bin": {

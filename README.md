@@ -2,6 +2,14 @@
 
 A Node.js package to get the current version of packages from the composer.lock file and write it into the composer.json file.
 
+## Usage without installation
+
+If you don't want to install the package globally, you can also run it using npx without installation:
+
+```
+npx composer-version-from-lock
+```
+
 ## Installation
 
 This package can be installed globally using npm:
