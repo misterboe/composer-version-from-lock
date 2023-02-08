@@ -1,0 +1,17 @@
+{
+  "name": "composer-version-from-lock",
+  "version": "1.0.0",
+  "description": "Get current package version from composer.lock file and write it into the composer.json",
+  "main": "index.js",
+  "bin": {
+    "composer-version-from-lock": "index.js"
+  },
+  "keywords": [
+    "composer",
+    "versions",
+    "update",
+    "composer.json"
+  ],
+  "author": "Boris Schauer me@bschauer.de",
+  "license": "ISC"
+}
